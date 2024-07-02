@@ -1,0 +1,13 @@
+
+ Model Architecture: resnet
+
+ Statistics:
+pct_match: 25.00
+pct_correct_dogs: 100.00
+pct_correct_breed: 0.00
+pct_correct_notdogs: 100.00
+Misclassified breeds:
+Real: dog                        Classifier: Tibetan mastiff               
+Real: dog                        Classifier: Tibetan mastiff               
+
+** Total Elapsed Runtime: 0:0:0
