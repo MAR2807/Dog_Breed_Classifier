@@ -1,4 +1,5 @@
 Dog Breed Classifier
+
 This project uses a Convolutional Neural Network (CNN) model to classify images of dogs. It compares the classified results with the actual labels of the images and calculates statistics to help determine the effectiveness of the model.
 
 Table of Contents
