@@ -58,7 +58,7 @@ Dog_breed_classifier
 Functions
 - adjust_results4_isadog.py: Adjusts the results to determine if the label is a dog.
 - calculates_results_stats.py: Calculates statistics of the results.
-- classifier.py: Contains the CNN model. Code provided by Jennifer S.
+- classifier.py: Contains the CNN model. 
 - classify_images.py: Classifies images using the specified CNN model.
 - get_input_args.py: Parses command-line arguments.
 - get_pet_labels.py: Extracts pet labels from the images.
